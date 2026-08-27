@@ -216,14 +216,14 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 
 **[⬆ back to top](#table-of-contents)**
 
-## How to use it
+[x] ## How to use it
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
 I'm using GitHub's special markdown flavor, including tasks lists to track progress.
   - [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-### If you don't want to use git
+[x] ### If you don't want to use git
 
 On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
 
@@ -231,7 +231,7 @@ If you're open in a code editor that understands markdown, you'll see everything
 
 ![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
 
-### If you're comfortable with git
+[x] ### If you're comfortable with git
 
 Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
